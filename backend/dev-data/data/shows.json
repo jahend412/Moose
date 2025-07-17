@@ -1,0 +1,102 @@
+[
+  {
+    "bandName": "Din Ballyhoo",
+    "venue": "The Whiskey Room",
+    "date": "2024-05-10T20:00:00Z",
+    "location": "Los Angeles, CA",
+    "setlist": "1. Intro, 2. Echoes of the Night, 3. Rising Tide, 4. Through the Fire, 5. Outro",
+    "audioTracks": [
+      {
+        "trackTitle": "Echoes of the Night",
+        "duration": 240,
+        "trackUrl": "https://linktotheaudio.com/echoesofthenight.mp3"
+      },
+      {
+        "trackTitle": "Rising Tide",
+        "duration": 220,
+        "trackUrl": "https://linktotheaudio.com/risingtide.mp3"
+      }
+    ],
+    "imageUrl": "https://linktotheimage.com/show1.jpg"
+  },
+  {
+    "bandName": "Din Ballyhoo",
+    "venue": "The Green Room",
+    "date": "2024-06-18T21:00:00Z",
+    "location": "Chicago, IL",
+    "setlist": "1. Start Again, 2. Best CD Ever, 3. Rise Up, 4. Heartbeat, 5. Encore: Awesome",
+    "audioTracks": [
+      {
+        "trackTitle": "Best CD Ever",
+        "duration": 200,
+        "trackUrl": "https://linktotheaudio.com/bestcdever.mp3"
+      },
+      {
+        "trackTitle": "Heartbeat",
+        "duration": 180,
+        "trackUrl": "https://linktotheaudio.com/heartbeat.mp3"
+      }
+    ],
+    "imageUrl": "https://linktotheimage.com/show2.jpg"
+  },
+  {
+    "bandName": "Din Ballyhoo",
+    "venue": "Sunset Beach Pavilion",
+    "date": "2024-07-22T19:30:00Z",
+    "location": "Miami, FL",
+    "setlist": "1. Intro, 2. Rising Tide, 3. Through the Fire, 4. The Night, 5. Encore: Echoes",
+    "audioTracks": [
+      {
+        "trackTitle": "Rising Tide",
+        "duration": 210,
+        "trackUrl": "https://linktotheaudio.com/risingtide.mp3"
+      },
+      {
+        "trackTitle": "Through the Fire",
+        "duration": 230,
+        "trackUrl": "https://linktotheaudio.com/throughthefire.mp3"
+      }
+    ],
+    "imageUrl": "https://linktotheimage.com/show3.jpg"
+  },
+  {
+    "bandName": "Din Ballyhoo",
+    "venue": "Rockfest Arena",
+    "date": "2024-08-09T22:00:00Z",
+    "location": "New York, NY",
+    "setlist": "1. Rise Again, 2. Best CD Ever, 3. Encore: Through the Fire, 4. Outro",
+    "audioTracks": [
+      {
+        "trackTitle": "Rise Again",
+        "duration": 220,
+        "trackUrl": "https://linktotheaudio.com/riseagain.mp3"
+      },
+      {
+        "trackTitle": "Best CD Ever",
+        "duration": 180,
+        "trackUrl": "https://linktotheaudio.com/bestcdever.mp3"
+      }
+    ],
+    "imageUrl": "https://linktotheimage.com/show4.jpg"
+  },
+  {
+    "bandName": "Din Ballyhoo",
+    "venue": "The Echo Chamber",
+    "date": "2024-09-05T20:30:00Z",
+    "location": "San Francisco, CA",
+    "setlist": "1. Start Again, 2. The Night, 3. Heartbeat, 4. Outro",
+    "audioTracks": [
+      {
+        "trackTitle": "The Night",
+        "duration": 210,
+        "trackUrl": "https://linktotheaudio.com/thenight.mp3"
+      },
+      {
+        "trackTitle": "Heartbeat",
+        "duration": 200,
+        "trackUrl": "https://linktotheaudio.com/heartbeat.mp3"
+      }
+    ],
+    "imageUrl": "https://linktotheimage.com/show5.jpg"
+  }
+]

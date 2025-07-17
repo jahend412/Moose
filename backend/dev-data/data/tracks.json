@@ -1,0 +1,26 @@
+[
+  {
+    "title": "First Track",
+    "artist": "Din Ballyhoo",
+    "duration": 215,
+    "album": "60a4d1f69d7b9a4b284e48a0",
+    "genre": "Alternative Rock",
+    "trackUrl": "https://example.com/first-track"
+  },
+  {
+    "title": "Second Track",
+    "artist": "Din Ballyhoo",
+    "duration": 240,
+    "album": "60a4d1f69d7b9a4b284e48a0",
+    "genre": "Alternative Rock",
+    "trackUrl": "https://example.com/second-track"
+  },
+  {
+    "title": "Third Track",
+    "artist": "Din Ballyhoo",
+    "duration": 280,
+    "album": "60a4d1f69d7b9a4b284e48a0",
+    "genre": "Alternative Rock",
+    "trackUrl": "https://example.com/third-track"
+  }
+]

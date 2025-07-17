@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Echoes of the Night",
+    "artist": "Din Ballyhoo",
+    "genre": "Alternative Rock",
+    "releaseDate": "2023-04-15T00:00:00Z",
+    "coverImage": "https://linktothecoverimage.com/echoesofthenight.jpg",
+    "tracks": [
+      "605c72ef1532074f02a6e6b9",
+      "605c72ef1532074f02a6e6ba",
+      "605c72ef1532074f02a6e6bb"
+    ],
+    "producer": "Din Ballyhoo, John Doe"
+  },
+  {
+    "title": "Rising Tide",
+    "artist": "Din Ballyhoo",
+    "genre": "Indie Rock",
+    "releaseDate": "2022-09-10T00:00:00Z",
+    "coverImage": "https://linktothecoverimage.com/risingtide.jpg",
+    "tracks": [
+      "605c72ef1532074f02a6e6bc",
+      "605c72ef1532074f02a6e6bd",
+      "605c72ef1532074f02a6e6be"
+    ],
+    "producer": "Din Ballyhoo, Jane Smith"
+  },
+  {
+    "title": "Through the Fire",
+    "artist": "Din Ballyhoo",
+    "genre": "Pop Rock",
+    "releaseDate": "2021-11-30T00:00:00Z",
+    "coverImage": "https://linktothecoverimage.com/throughthefire.jpg",
+    "tracks": [
+      "605c72ef1532074f02a6e6bf",
+      "605c72ef1532074f02a6e6c0",
+      "605c72ef1532074f02a6e6c1"
+    ],
+    "producer": "Din Ballyhoo, Alex Lee"
+  }
+]
